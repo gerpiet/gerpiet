@@ -2,6 +2,7 @@ Yet another cs student...
 
 Interests 👀
 - Linux
+- Theoretical computer science
 
 Currently learning 🌱
 - Nix/NixOS
